@@ -1,0 +1,16 @@
+Launch the app by going to RCarpus.github.io
+
+Buy a copy of this fantastic board game and play with your friends!
+This project is motivated by the fact that the player cards that come with the board game are poorly designed,
+and the stat sliders tend to fall off the player cards. This makes it difficult to track the stats.
+This project mitigates that and makes it easier for everybody to keep track of each others' stats.
+
+Select characters (or remove them from the game) by clicking their names on the list. Their player card will toggle on or off.
+Toggling a character card does not reset the card.
+Click the plus or minus button on a character's player card to modify their stats.
+Click the star to the left of a player's stat slider to give them their oncer-per-game room bonus for that stat.
+Click the speed roll or other stat roll button to make a stat roll for that stat. The dice appear at the top of the screen,
+and the total appears to the right of the stat roll button.
+Roll any specific number of dice using the roll dice buttons on the left of the screen.
+Click "Make a haunt roll" to make a haunt roll. If the result is less than the total number of haunt rolls, the haunt begins,
+and the "Make a haunt roll" button is turned off.
